@@ -1,3 +1,3 @@
 # release-branching
 ##Introduction
-##scop
+##scope
